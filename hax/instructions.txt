@@ -1,1 +1,1 @@
-This is to be used with an exploit that can run bash with sudo , run ``sudo init.sh`` with ``ping.xz``, run ``xz exploit.xz`` to uncompress
+This is to be used with an exploit that can run bash with sudo (shimmer https://dl.darkn.bio/SH1mmer/Prebuilt/Modern/) , run ``sudo init.sh`` with ``ping.xz``, run ``xz exploit.xz`` to uncompress
